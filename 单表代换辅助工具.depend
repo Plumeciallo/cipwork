@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717904691 source:e:\单表代换辅助工具\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
